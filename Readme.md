@@ -2,7 +2,7 @@
 
 
 
-# 🚀 CapsiTech Module 5: TODO APP – React + .NET TodoList Application
+# 🚀 CapsiTech Module 6 & 6: TODO APP – React + .NET TodoList Application
 
 Welcome to TODO APP, a simple and clean task management application built with React.js on the frontend and .NET on the backend. ✅ This app allows users to add, edit, and delete tasks to help stay organized and productive.
 
