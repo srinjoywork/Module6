@@ -66,7 +66,7 @@ Before you begin, ensure you have the following installed on your system:✔️ 
 
 4️⃣ **Run the Backend Server** 🏃‍♂️
 
-`   docker run  `
+`   dotnet run  `
 
 5️⃣ **Start the Frontend** 🎨
 
