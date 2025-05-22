@@ -14,7 +14,14 @@ Welcome to TODO APP, a simple and clean task management application built with R
 
 ## 📌 Demo Video of Whole Project
 
-👉 [View Demo Video](https://drive.google.com/file/d/1g80AL3TO2SJ3RNinxb94HNA8vtXKgaQW/view?usp=sharing)
+<div>
+    <a href="https://www.loom.com/share/da06d537ceac41d7bdbb734450b4d232">
+      <p>Demo Video to watch the functionality </p>
+    </a>
+    <a href="https://www.loom.com/share/da06d537ceac41d7bdbb734450b4d232">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/da06d537ceac41d7bdbb734450b4d232-87baa039d47852c2-full-play.gif">
+    </a>
+  </div>
 
 ## 📌 Key Features
 
